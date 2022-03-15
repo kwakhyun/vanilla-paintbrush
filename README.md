@@ -1,3 +1,3 @@
 # vanilla-paintbrush
-Paintbrush made with Vanilla JS<br>
-https://kwakhyun.github.io/simple-paintbrush/
+Paint made with VanillaJS and Canvas<br>
+https://kwakhyun.github.io/vanilla-paintbrush/
